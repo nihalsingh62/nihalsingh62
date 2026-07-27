@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=NIHAL%20KUMAR&fontSize=70&fontColor=B983FF&animation=fadeIn&fontAlignY=38&desc=CS%20Engineering%20Student%20%7C%20Java%20%26%20DSA%20Learner%20%7C%20Frontend%20Web%20Developer&descAlignY=55&descSize=18&descColor=E0AAFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=NIHAL%20KUMAR&fontSize=70&fontColor=B983FF&animation=fadeIn&fontAlignY=38&desc=CS%20Engineering%20Student%20%7C%20Java%20and%20DSA%20Learner%20%7C%20Frontend%20Web%20Developer&descAlignY=55&descSize=18&descColor=E0AAFF" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Mastering+Data+Structures+%26+Algorithms+in+Java;Building+responsive%2C+interactive+web+apps;Open+Source+Enthusiast+%26+Lifelong+Learner;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
